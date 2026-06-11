@@ -1,0 +1,57 @@
+quarter,year,kpi_name,baseline,target_2030,actual,unit,progress,status
+2026-Q1,2026,AI contribution to GDP,120.0,850.0,263.17,bn RUB,0.196,Red
+2026-Q2,2026,AI contribution to GDP,120.0,850.0,285.69,bn RUB,0.227,Red
+2026-Q3,2026,AI contribution to GDP,120.0,850.0,349.7,bn RUB,0.315,Red
+2026-Q4,2026,AI contribution to GDP,120.0,850.0,416.32,bn RUB,0.406,Yellow
+2027-Q1,2027,AI contribution to GDP,120.0,850.0,406.08,bn RUB,0.392,Yellow
+2027-Q2,2027,AI contribution to GDP,120.0,850.0,447.14,bn RUB,0.448,Yellow
+2027-Q3,2027,AI contribution to GDP,120.0,850.0,541.15,bn RUB,0.577,Green
+2027-Q4,2027,AI contribution to GDP,120.0,850.0,558.51,bn RUB,0.601,Green
+2026-Q1,2026,Confirmed economic effect,80.0,620.0,165.03,bn RUB,0.157,Red
+2026-Q2,2026,Confirmed economic effect,80.0,620.0,217.27,bn RUB,0.254,Red
+2026-Q3,2026,Confirmed economic effect,80.0,620.0,225.92,bn RUB,0.27,Red
+2026-Q4,2026,Confirmed economic effect,80.0,620.0,256.24,bn RUB,0.326,Red
+2027-Q1,2027,Confirmed economic effect,80.0,620.0,301.9,bn RUB,0.411,Yellow
+2027-Q2,2027,Confirmed economic effect,80.0,620.0,285.72,bn RUB,0.381,Yellow
+2027-Q3,2027,Confirmed economic effect,80.0,620.0,320.17,bn RUB,0.445,Yellow
+2027-Q4,2027,Confirmed economic effect,80.0,620.0,375.65,bn RUB,0.548,Yellow
+2026-Q1,2026,Productivity growth from AI,0.6,7.5,1.54,%,0.136,Red
+2026-Q2,2026,Productivity growth from AI,0.6,7.5,2.29,%,0.245,Red
+2026-Q3,2026,Productivity growth from AI,0.6,7.5,2.34,%,0.252,Red
+2026-Q4,2026,Productivity growth from AI,0.6,7.5,2.59,%,0.289,Red
+2027-Q1,2027,Productivity growth from AI,0.6,7.5,3.77,%,0.46,Yellow
+2027-Q2,2027,Productivity growth from AI,0.6,7.5,3.69,%,0.448,Yellow
+2027-Q3,2027,Productivity growth from AI,0.6,7.5,4.16,%,0.516,Yellow
+2027-Q4,2027,Productivity growth from AI,0.6,7.5,4.14,%,0.513,Yellow
+2026-Q1,2026,Citizen hours saved,45.0,900.0,177.08,mln hours,0.154,Red
+2026-Q2,2026,Citizen hours saved,45.0,900.0,247.58,mln hours,0.237,Red
+2026-Q3,2026,Citizen hours saved,45.0,900.0,252.52,mln hours,0.243,Red
+2026-Q4,2026,Citizen hours saved,45.0,900.0,352.82,mln hours,0.36,Yellow
+2027-Q1,2027,Citizen hours saved,45.0,900.0,367.53,mln hours,0.377,Yellow
+2027-Q2,2027,Citizen hours saved,45.0,900.0,426.19,mln hours,0.446,Yellow
+2027-Q3,2027,Citizen hours saved,45.0,900.0,463.68,mln hours,0.49,Yellow
+2027-Q4,2027,Citizen hours saved,45.0,900.0,595.7,mln hours,0.644,Green
+2026-Q1,2026,Sovereign critical AI systems,22.0,85.0,33.07,%,0.176,Red
+2026-Q2,2026,Sovereign critical AI systems,22.0,85.0,33.98,%,0.19,Red
+2026-Q3,2026,Sovereign critical AI systems,22.0,85.0,42.26,%,0.322,Red
+2026-Q4,2026,Sovereign critical AI systems,22.0,85.0,40.66,%,0.296,Red
+2027-Q1,2027,Sovereign critical AI systems,22.0,85.0,47.81,%,0.41,Yellow
+2027-Q2,2027,Sovereign critical AI systems,22.0,85.0,45.88,%,0.379,Yellow
+2027-Q3,2027,Sovereign critical AI systems,22.0,85.0,51.02,%,0.461,Yellow
+2027-Q4,2027,Sovereign critical AI systems,22.0,85.0,58.41,%,0.578,Green
+2026-Q1,2026,Scaled AI solutions,40.0,950.0,227.27,solutions,0.206,Red
+2026-Q2,2026,Scaled AI solutions,40.0,950.0,257.81,solutions,0.239,Red
+2026-Q3,2026,Scaled AI solutions,40.0,950.0,298.55,solutions,0.284,Red
+2026-Q4,2026,Scaled AI solutions,40.0,950.0,342.99,solutions,0.333,Red
+2027-Q1,2027,Scaled AI solutions,40.0,950.0,351.32,solutions,0.342,Red
+2027-Q2,2027,Scaled AI solutions,40.0,950.0,430.12,solutions,0.429,Yellow
+2027-Q3,2027,Scaled AI solutions,40.0,950.0,490.75,solutions,0.495,Yellow
+2027-Q4,2027,Scaled AI solutions,40.0,950.0,597.18,solutions,0.612,Green
+2026-Q1,2026,Regional AI gap reduction,0.0,35.0,6.65,%,0.19,Red
+2026-Q2,2026,Regional AI gap reduction,0.0,35.0,5.67,%,0.162,Red
+2026-Q3,2026,Regional AI gap reduction,0.0,35.0,10.56,%,0.302,Red
+2026-Q4,2026,Regional AI gap reduction,0.0,35.0,11.54,%,0.33,Red
+2027-Q1,2027,Regional AI gap reduction,0.0,35.0,13.1,%,0.374,Yellow
+2027-Q2,2027,Regional AI gap reduction,0.0,35.0,16.87,%,0.482,Yellow
+2027-Q3,2027,Regional AI gap reduction,0.0,35.0,19.42,%,0.555,Green
+2027-Q4,2027,Regional AI gap reduction,0.0,35.0,21.25,%,0.607,Green

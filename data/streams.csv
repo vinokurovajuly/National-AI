@@ -1,0 +1,73 @@
+quarter,year,stream,owner,budget_bn_rub,spent_bn_rub,effect_bn_rub,progress,risk_score,status
+2026-Q1,2026,Economy & Productivity,Минэкономразвития,420,161.9,223.4,0.376,18.0,Red
+2026-Q2,2026,Economy & Productivity,Минэкономразвития,420,175.0,248.0,0.461,20.5,Yellow
+2026-Q3,2026,Economy & Productivity,Минэкономразвития,420,211.5,139.9,0.497,52.2,Yellow
+2026-Q4,2026,Economy & Productivity,Минэкономразвития,420,216.6,254.3,0.564,59.4,Yellow
+2027-Q1,2027,Economy & Productivity,Минэкономразвития,420,218.2,211.4,0.582,49.0,Green
+2027-Q2,2027,Economy & Productivity,Минэкономразвития,420,246.5,197.6,0.604,27.1,Green
+2027-Q3,2027,Economy & Productivity,Минэкономразвития,420,220.1,372.1,0.599,42.6,Green
+2027-Q4,2027,Economy & Productivity,Минэкономразвития,420,281.2,499.2,0.824,37.1,Green
+2026-Q1,2026,Social Services & Quality of Life,Минздрав / Минпросвещения,360,140.0,79.9,0.336,35.7,Red
+2026-Q2,2026,Social Services & Quality of Life,Минздрав / Минпросвещения,360,110.2,100.9,0.363,46.1,Red
+2026-Q3,2026,Social Services & Quality of Life,Минздрав / Минпросвещения,360,153.1,135.6,0.431,67.5,Yellow
+2026-Q4,2026,Social Services & Quality of Life,Минздрав / Минпросвещения,360,166.3,147.2,0.481,12.9,Yellow
+2027-Q1,2027,Social Services & Quality of Life,Минздрав / Минпросвещения,360,169.9,195.2,0.515,34.2,Yellow
+2027-Q2,2027,Social Services & Quality of Life,Минздрав / Минпросвещения,360,185.1,155.3,0.545,36.3,Yellow
+2027-Q3,2027,Social Services & Quality of Life,Минздрав / Минпросвещения,360,211.1,292.4,0.635,55.2,Yellow
+2027-Q4,2027,Social Services & Quality of Life,Минздрав / Минпросвещения,360,200.1,331.6,0.665,34.5,Green
+2026-Q1,2026,Public Administration Efficiency,Минцифры,310,101.5,112.7,0.296,42.7,Red
+2026-Q2,2026,Public Administration Efficiency,Минцифры,310,102.2,125.1,0.325,49.0,Red
+2026-Q3,2026,Public Administration Efficiency,Минцифры,310,116.8,166.2,0.364,35.6,Red
+2026-Q4,2026,Public Administration Efficiency,Минцифры,310,141.7,154.7,0.462,58.1,Yellow
+2027-Q1,2027,Public Administration Efficiency,Минцифры,310,147.4,128.0,0.464,57.9,Yellow
+2027-Q2,2027,Public Administration Efficiency,Минцифры,310,161.5,206.7,0.559,41.2,Yellow
+2027-Q3,2027,Public Administration Efficiency,Минцифры,310,145.4,90.1,0.524,39.5,Yellow
+2027-Q4,2027,Public Administration Efficiency,Минцифры,310,162.3,246.3,0.629,44.1,Green
+2026-Q1,2026,Technological Sovereignty,Минпромторг / Минцифры,500,189.5,205.6,0.294,55.0,Red
+2026-Q2,2026,Technological Sovereignty,Минпромторг / Минцифры,500,171.2,142.7,0.359,29.4,Red
+2026-Q3,2026,Technological Sovereignty,Минпромторг / Минцифры,500,206.3,245.2,0.415,39.8,Yellow
+2026-Q4,2026,Technological Sovereignty,Минпромторг / Минцифры,500,203.1,292.1,0.459,38.0,Yellow
+2027-Q1,2027,Technological Sovereignty,Минпромторг / Минцифры,500,217.1,161.3,0.444,35.6,Yellow
+2027-Q2,2027,Technological Sovereignty,Минпромторг / Минцифры,500,225.7,355.9,0.469,49.4,Yellow
+2027-Q3,2027,Technological Sovereignty,Минпромторг / Минцифры,500,287.4,288.9,0.618,27.9,Green
+2027-Q4,2027,Technological Sovereignty,Минпромторг / Минцифры,500,271.1,355.5,0.571,37.1,Yellow
+2026-Q1,2026,Regional AI Development,Правительство РФ / регионы,280,96.6,140.9,0.353,54.3,Red
+2026-Q2,2026,Regional AI Development,Правительство РФ / регионы,280,108.7,163.8,0.43,25.2,Yellow
+2026-Q3,2026,Regional AI Development,Правительство РФ / регионы,280,160.7,179.1,0.474,58.1,Yellow
+2026-Q4,2026,Regional AI Development,Правительство РФ / регионы,280,137.7,140.1,0.541,47.9,Yellow
+2027-Q1,2027,Regional AI Development,Правительство РФ / регионы,280,131.6,138.9,0.488,11.0,Yellow
+2027-Q2,2027,Regional AI Development,Правительство РФ / регионы,280,148.9,115.4,0.609,51.1,Green
+2027-Q3,2027,Regional AI Development,Правительство РФ / регионы,280,160.8,204.1,0.622,70.3,Yellow
+2027-Q4,2027,Regional AI Development,Правительство РФ / регионы,280,162.2,283.9,0.754,34.0,Green
+2026-Q1,2026,Data,Минцифры / Росстат,240,89.0,45.7,0.263,36.3,Red
+2026-Q2,2026,Data,Минцифры / Росстат,240,91.9,62.7,0.315,61.1,Red
+2026-Q3,2026,Data,Минцифры / Росстат,240,111.8,114.2,0.409,17.0,Yellow
+2026-Q4,2026,Data,Минцифры / Росстат,240,97.0,62.5,0.402,68.0,Yellow
+2027-Q1,2027,Data,Минцифры / Росстат,240,103.7,103.7,0.439,63.5,Yellow
+2027-Q2,2027,Data,Минцифры / Росстат,240,113.2,141.4,0.501,30.5,Yellow
+2027-Q3,2027,Data,Минцифры / Росстат,240,132.7,98.9,0.578,38.5,Yellow
+2027-Q4,2027,Data,Минцифры / Росстат,240,121.3,139.6,0.517,39.0,Yellow
+2026-Q1,2026,Infrastructure,Минцифры / Ростелеком,460,150.5,248.8,0.363,47.5,Red
+2026-Q2,2026,Infrastructure,Минцифры / Ростелеком,460,181.8,104.1,0.364,31.6,Red
+2026-Q3,2026,Infrastructure,Минцифры / Ростелеком,460,194.5,116.9,0.38,54.8,Yellow
+2026-Q4,2026,Infrastructure,Минцифры / Ростелеком,460,234.6,197.6,0.516,46.5,Yellow
+2027-Q1,2027,Infrastructure,Минцифры / Ростелеком,460,222.6,344.2,0.486,11.0,Yellow
+2027-Q2,2027,Infrastructure,Минцифры / Ростелеком,460,241.2,356.9,0.551,33.2,Yellow
+2027-Q3,2027,Infrastructure,Минцифры / Ростелеком,460,260.9,181.5,0.604,35.1,Green
+2027-Q4,2027,Infrastructure,Минцифры / Ростелеком,460,294.3,312.0,0.722,27.3,Green
+2026-Q1,2026,Talent & Competences,Минобрнауки,210,57.1,68.0,0.216,46.1,Red
+2026-Q2,2026,Talent & Competences,Минобрнауки,210,59.5,53.2,0.288,36.1,Red
+2026-Q3,2026,Talent & Competences,Минобрнауки,210,82.8,97.2,0.345,41.2,Red
+2026-Q4,2026,Talent & Competences,Минобрнауки,210,60.6,93.4,0.309,68.8,Red
+2027-Q1,2027,Talent & Competences,Минобрнауки,210,96.4,56.5,0.413,43.4,Yellow
+2027-Q2,2027,Talent & Competences,Минобрнауки,210,88.8,52.2,0.394,53.2,Yellow
+2027-Q3,2027,Talent & Competences,Минобрнауки,210,93.2,149.1,0.474,27.4,Yellow
+2027-Q4,2027,Talent & Competences,Минобрнауки,210,100.3,182.9,0.598,58.6,Yellow
+2026-Q1,2026,"Safety, Trust & Regulation",Правительство РФ,180,54.1,26.8,0.245,62.9,Red
+2026-Q2,2026,"Safety, Trust & Regulation",Правительство РФ,180,63.2,47.3,0.314,48.2,Red
+2026-Q3,2026,"Safety, Trust & Regulation",Правительство РФ,180,69.7,40.9,0.365,48.0,Red
+2026-Q4,2026,"Safety, Trust & Regulation",Правительство РФ,180,80.6,70.7,0.391,54.6,Yellow
+2027-Q1,2027,"Safety, Trust & Regulation",Правительство РФ,180,83.0,50.4,0.47,36.6,Yellow
+2027-Q2,2027,"Safety, Trust & Regulation",Правительство РФ,180,83.6,95.3,0.522,27.9,Yellow
+2027-Q3,2027,"Safety, Trust & Regulation",Правительство РФ,180,85.1,134.3,0.49,9.1,Yellow
+2027-Q4,2027,"Safety, Trust & Regulation",Правительство РФ,180,97.3,168.8,0.642,41.3,Green
