@@ -1,0 +1,26 @@
+region,federal_district,lat,lon,ai_maturity_index,economic_effect_bn_rub,social_effect_score,scaled_projects,talent_gap,infrastructure_score,data_readiness,safety_score,risk_level
+Moscow,Central,55.7558,37.6173,45.0,66.9,36.5,10,74.1,82.4,40.3,49.0,High
+Saint Petersburg,Northwestern,59.9311,30.3609,78.5,164.3,75.1,39,57.6,83.1,86.9,78.4,Low
+Tatarstan,Volga,55.8304,49.0661,59.8,105.6,35.8,7,26.5,48.2,69.3,93.4,Medium
+Moscow Oblast,Central,55.5043,38.0354,61.7,72.9,61.3,12,81.3,79.9,77.4,91.6,Medium
+Novosibirsk Oblast,Siberian,55.0084,82.9357,58.4,69.2,70.7,11,45.2,59.5,57.2,94.5,Medium
+Sverdlovsk Oblast,Ural,56.8389,60.6057,73.8,154.6,90.9,36,36.4,68.7,80.6,62.4,Low
+Krasnodar Krai,Southern,45.0355,38.9753,59.0,74.9,78.3,10,31.5,38.1,92.9,55.3,Medium
+Nizhny Novgorod Oblast,Volga,56.2965,43.9361,85.0,144.3,78.4,38,24.8,82.0,80.0,85.7,Low
+Samara Oblast,Volga,53.1959,50.1002,71.8,127.1,93.3,41,54.4,87.0,56.5,67.6,Medium
+Rostov Oblast,Southern,47.2357,39.7015,50.9,104.8,52.1,3,67.4,67.5,61.3,72.2,High
+Perm Krai,Volga,58.0105,56.2502,58.7,55.8,75.0,9,46.1,91.1,42.0,79.7,Medium
+Krasnoyarsk Krai,Siberian,56.0153,92.8932,83.7,76.5,50.6,38,25.9,94.9,69.4,83.9,Low
+Chelyabinsk Oblast,Ural,55.1644,61.4368,77.5,98.2,66.4,39,26.3,62.1,77.8,71.8,Low
+Bashkortostan,Volga,54.7388,55.9721,47.9,76.6,46.3,3,66.0,61.6,67.4,45.6,High
+Voronezh Oblast,Central,51.6755,39.2089,64.3,66.9,52.9,11,27.0,68.9,78.0,62.1,Medium
+Primorsky Krai,Far Eastern,43.1155,131.8855,61.8,124.1,82.3,34,57.9,39.0,89.7,45.9,Medium
+Irkutsk Oblast,Siberian,52.2864,104.2807,65.8,122.1,50.9,9,10.6,75.3,68.9,77.6,Medium
+Tyumen Oblast,Ural,57.153,65.5343,69.1,87.6,79.0,41,49.9,84.4,46.2,75.4,Medium
+Khabarovsk Krai,Far Eastern,48.4827,135.0838,70.1,105.6,92.5,36,26.7,81.2,47.3,64.9,Medium
+Yakutia,Far Eastern,62.0355,129.6755,64.2,60.9,27.9,25,51.3,59.4,79.3,73.9,Medium
+Kaliningrad Oblast,Northwestern,54.7104,20.4522,59.6,101.0,34.5,27,51.4,80.7,53.7,45.7,Medium
+Tomsk Oblast,Siberian,56.4846,84.9476,66.3,88.8,79.5,14,35.1,62.6,94.8,64.9,Medium
+Sakhalin Oblast,Far Eastern,46.9591,142.738,65.7,101.6,30.6,30,32.6,60.4,56.0,68.6,Medium
+Murmansk Oblast,Northwestern,68.9585,33.0827,71.0,60.7,52.2,39,59.5,58.6,66.5,83.3,Medium
+Dagestan,North Caucasian,42.9849,47.5047,56.6,74.3,24.1,20,60.7,79.0,39.5,77.2,Medium
