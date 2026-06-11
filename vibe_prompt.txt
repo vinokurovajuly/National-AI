@@ -1,0 +1,38 @@
+Create a government-style interactive dashboard called "National AI Project Control Tower".
+
+Goal:
+The dashboard manages a National AI Development Project. It should focus on measurable effects, not just the number of AI pilots.
+
+Pages:
+1. Executive Overview
+2. Streams Performance
+3. Industry Cascade
+4. Regional AI Development
+5. Project Portfolio
+
+Use synthetic data with:
+- national KPI progress
+- strategic streams
+- industries
+- Russian regions
+- AI projects with budget, effect, ROI, risk, status and decision
+
+Design:
+- formal government analytics dashboard
+- white background with dark navy accents
+- KPI cards
+- progress bars
+- bar charts
+- line charts
+- map placeholder or regional bubble map
+- decision matrix
+- project portfolio table
+- green / yellow / red statuses
+
+Decision logic:
+- Scale if ROI >= 1.5 and risk is acceptable
+- Improve if ROI >= 1.0 but needs work
+- Stop if there is no confirmed effect or risk is too high
+
+Main message:
+The national project is managed by confirmed economic, social and governance effects.
